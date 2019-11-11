@@ -1,4 +1,7 @@
 # E11a-3D
+
+Confusing but fun!
+
 This is the first Godot 3D exercise. Because it is so excellent, I would like you to follow the Godot 101: Intro to 3D tutorial from KidsCanCode.
 
 The hardest part of working with a 3D project in Godot, at least initially, will be learning how to navigate the 3D Viewport. Although I expect you to turn in the results of the the third tutorial video, I would strongly recommend that you watch (and follow along with) all three videos in order.
